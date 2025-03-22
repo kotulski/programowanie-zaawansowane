@@ -1,0 +1,14 @@
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.AssemblyInfoInputs.cache
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.AssemblyInfo.cs
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.csproj.CoreCompileInputs.cache
+F:\prog-zaaw\Zadanie1\bin\Debug\net6.0\Zadanie1.exe
+F:\prog-zaaw\Zadanie1\bin\Debug\net6.0\Zadanie1.deps.json
+F:\prog-zaaw\Zadanie1\bin\Debug\net6.0\Zadanie1.runtimeconfig.json
+F:\prog-zaaw\Zadanie1\bin\Debug\net6.0\Zadanie1.dll
+F:\prog-zaaw\Zadanie1\bin\Debug\net6.0\Zadanie1.pdb
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.dll
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\refint\Zadanie1.dll
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.pdb
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\Zadanie1.genruntimeconfig.cache
+F:\prog-zaaw\Zadanie1\obj\Debug\net6.0\ref\Zadanie1.dll
