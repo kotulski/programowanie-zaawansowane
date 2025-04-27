@@ -1,0 +1,14 @@
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfoInputs.cache
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfo.cs
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.csproj.CoreCompileInputs.cache
+E:\Mediator\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.exe
+E:\Mediator\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.deps.json
+E:\Mediator\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.runtimeconfig.json
+E:\Mediator\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.dll
+E:\Mediator\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.pdb
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.dll
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\refint\Zadanie.dll
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.pdb
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.genruntimeconfig.cache
+E:\Mediator\Zadanie\Zadanie\obj\Debug\net8.0\ref\Zadanie.dll

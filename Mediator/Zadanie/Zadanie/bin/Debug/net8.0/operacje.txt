@@ -1,0 +1,4 @@
+27.04.2025 13:40:49: Wykonano operację: Wplata
+27.04.2025 13:40:49: Wykonano operację: Wyplata
+27.04.2025 13:50:24: Wykonano operację: Wplata
+27.04.2025 13:50:24: Wykonano operację: Wyplata
