@@ -1,0 +1,14 @@
+E:\Serializacja\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.exe
+E:\Serializacja\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.deps.json
+E:\Serializacja\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.runtimeconfig.json
+E:\Serializacja\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.dll
+E:\Serializacja\Zadanie\Zadanie\bin\Debug\net8.0\Zadanie.pdb
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.GeneratedMSBuildEditorConfig.editorconfig
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfoInputs.cache
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.AssemblyInfo.cs
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.csproj.CoreCompileInputs.cache
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.dll
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\refint\Zadanie.dll
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.pdb
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\Zadanie.genruntimeconfig.cache
+E:\Serializacja\Zadanie\Zadanie\obj\Debug\net8.0\ref\Zadanie.dll
